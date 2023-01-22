@@ -1,0 +1,40 @@
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csprojAssemblyReference.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Form1.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Properties.Resources.resources
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.AssemblyInfoInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.AssemblyInfo.cs
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.exe
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.deps.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.runtimeconfig.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.runtimeconfig.dev.json
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\ref\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\ref\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.pdb
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.genruntimeconfig.cache
+C:\Users\dan\Desktop\Proiect C# Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Form2.resources
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.exe
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.deps.json
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.runtimeconfig.json
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.runtimeconfig.dev.json
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\ref\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\bin\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.pdb
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csprojAssemblyReference.cache
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Form1.resources
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Form2.resources
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect_Csharp_Dosius_Dan_Andrei_609.Properties.Resources.resources
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csproj.GenerateResource.cache
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.AssemblyInfoInputs.cache
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.AssemblyInfo.cs
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.csproj.CoreCompileInputs.cache
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\ref\Proiect Csharp Dosius Dan-Andrei 609.dll
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.pdb
+C:\Users\dan\Desktop\Proiect Algoritmi Dosius Dan Andrei 609\Proiect Csharp Dosius Dan-Andrei 609\obj\Debug\net5.0-windows\Proiect Csharp Dosius Dan-Andrei 609.genruntimeconfig.cache
